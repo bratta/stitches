@@ -1,4 +1,4 @@
-# Where's My Stitch At?
+# Where My Stitches At?
 
 This is a simple Javascript-driven site to keep track of your current row while working on a crochet or knit project. 
 
