@@ -18,6 +18,7 @@ This site utilizes a single cookie to remember what row you are on for subsequen
 ## Author
 
 Codes by Tim Gourley. Made especially for Lori!
+
 jQuery cookie plugin Copyright (c) 2006 Klaus Hartl (stilbuero.de)
 
 ## License
